@@ -9,7 +9,7 @@ const Banner = () => {
         alt="Banner"
         className="w-full max-w-sm object-contain"
       />
-      <div className="max-w-lg">
+      <div className="flex flex-col max-w-lg">
         <h2 className="text-2xl lg:text-3xl font-bold text-green-800 mb-4">
           لَكِ يَا صَفْوَةُ الصَّفْوَة
         </h2>
